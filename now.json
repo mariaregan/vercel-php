@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "alias": "DOMAIN.com",
   "builds": [
     {
       "src": "*.php",
